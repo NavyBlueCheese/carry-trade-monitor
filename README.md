@@ -5,7 +5,7 @@ It shows live FX rates, computes interest-rate differentials against approximate
 policy rates, estimates 30-day historical volatility, and ranks pairs by a risk-adjusted carry
 score so the best opportunities surface first.
 
-Website URL: https://navybluecheese.github.io/carry-trade-monitor/
+Live site: https://navybluecheese.github.io/carry-trade-monitor/
 
 ## Features
 
