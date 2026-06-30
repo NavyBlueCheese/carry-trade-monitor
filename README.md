@@ -1,6 +1,6 @@
 # Carry Trade Monitor
 
-A clean, single-page React app for understanding and monitoring G10 currency carry trades.
+A single-page React app for understanding and monitoring G10 currency carry trades.
 It shows live FX rates, computes interest-rate differentials against approximate central-bank
 policy rates, estimates 30-day historical volatility, and ranks pairs by a risk-adjusted carry
 score so the best opportunities surface first.
